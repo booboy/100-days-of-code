@@ -30,3 +30,10 @@ the beginning stages. My speed at programming will improve as I get better and
 better. The tutorial video that I used can be found here: 
 [Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
 
+
+### R1D4
+Did some more programming while at work on unit testing things more. I also
+looked more at the discordpy library example bots and copied those into my
+project in a separate 'examples' directory. I think I am going to have to and
+read alot more on asyncio and the concepts that come with it, so I am going to
+spend some time tonight reading up on this more.
