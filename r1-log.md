@@ -37,3 +37,10 @@ looked more at the discordpy library example bots and copied those into my
 project in a separate 'examples' directory. I think I am going to have to and
 read alot more on asyncio and the concepts that come with it, so I am going to
 spend some time tonight reading up on this more.
+
+
+### R1D5
+Did not feel like working on discord bot, so I just did some hacker rank
+problems today. Nothing exciting just string validator stuff. I learned about
+the any() function in python though which is a cool way to do some string
+validation
