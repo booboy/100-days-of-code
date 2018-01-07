@@ -44,3 +44,8 @@ Did not feel like working on discord bot, so I just did some hacker rank
 problems today. Nothing exciting just string validator stuff. I learned about
 the any() function in python though which is a cool way to do some string
 validation
+
+### R1D6
+Made an object that I can build on top of for nmap scripting in python. Spent a
+good chunk just looking up how to use python-nmap and testing out scans in
+ipython with the object.
