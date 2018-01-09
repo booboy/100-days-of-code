@@ -49,3 +49,9 @@ validation
 Made an object that I can build on top of for nmap scripting in python. Spent a
 good chunk just looking up how to use python-nmap and testing out scans in
 ipython with the object.
+
+### R1D7 
+Took a break from coding on Sunday. Needed to take care of some things around
+my apartment instead. Today, I ended up programming for a few hours while at
+work. I learned more about initialization of objects and about unpacking
+tuples.
