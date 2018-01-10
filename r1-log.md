@@ -55,3 +55,13 @@ Took a break from coding on Sunday. Needed to take care of some things around
 my apartment instead. Today, I ended up programming for a few hours while at
 work. I learned more about initialization of objects and about unpacking
 tuples.
+
+### R1D8
+Coded while at work. Installed the xonsh shell on my home system and configured
+it.
+
+### R1D9 
+Going to be writing some more add-ons to nmap module. Also, added an example of
+a bubble sort algorithm in python, and accompanied it with a wikipedia
+description of the algorithm. I am going to be looking into implementing
+another type of sorting algorithm today.
