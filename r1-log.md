@@ -65,3 +65,14 @@ Going to be writing some more add-ons to nmap module. Also, added an example of
 a bubble sort algorithm in python, and accompanied it with a wikipedia
 description of the algorithm. I am going to be looking into implementing
 another type of sorting algorithm today.
+
+### R1D10
+Had to take a day break. Went to my friends house and could not find time to
+program sadly.I am not going to let one bad day get me down. I will keep at it.
+
+### R1D11
+Made fibonacci programs from tutorials I found on youtube. One that introduces
+the concept of memoization or storing results of recent function calls to improve
+the speed of the recursive function. Also a basic bubblesort program in python that I
+found from another tutorial. This is very basic stuff but I want to make sure I
+know as much foundational knowledge as I can. 
