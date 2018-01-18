@@ -73,3 +73,7 @@ the concept of memoization or storing results of recent function calls to improv
 the speed of the recursive function. Also a basic bubblesort program in python that I
 found from another tutorial. This is very basic stuff but I want to make sure I
 know as much foundational knowledge as I can. 
+
+### R1D11 
+Made a class that I will be able to use in my xonsh shell for interacting with
+json data. I will make one for xml data too
