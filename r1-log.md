@@ -77,3 +77,11 @@ know as much foundational knowledge as I can.
 ### R1D11 
 Made a class that I will be able to use in my xonsh shell for interacting with
 json data. I will make one for xml data too
+
+### R1D12
+Today I made basic aws scripts that interact with ec2 and s3. I am going to look
+into designing programs that will migrate my existing OVH vps using a
+combination of the API they provide, unix tools like rsync, and the AWS API. I
+need to get better at interacting with boto3 so this will be perfect.
+interacting with API's is fun and I really enjoy working with the HTTP
+protocol.
